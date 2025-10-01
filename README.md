@@ -1,2 +1,1 @@
-# Feench.github.io
-Privacy policy for Feench
+Welcome to Feench
